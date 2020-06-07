@@ -1,0 +1,6 @@
+include ':itstudio-ec'
+include ':itstudio-core'
+include ':itstudio-compiler'
+include ':itstudio-annotation'
+include ':app'
+rootProject.name = "Framework1"
